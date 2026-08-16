@@ -8,7 +8,7 @@ const greets = [
   "Make today count.",
   "Your future starts with what you do today.",
   "You have beautifulcd soul",
-  "Believe in yourself and you will be unstoppable",
+  "Believe in yourself and you will be unstoppablle",
   ""
 ];
 
